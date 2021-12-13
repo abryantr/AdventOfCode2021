@@ -144,7 +144,7 @@ public class Day1SonarSweep {
 			val3 = val4;
 			val4 = scan.nextInt();
 			if((val2 + val3 + val4) > (val1 + val2 + val3)) output++;
-			System.out.println("Sum 1: " + (val1 + val2 + val3) + " | " + "Sum 2: " + (val2 + val3 + val4) + " | " + output);
+			//System.out.println("Sum 1: " + (val1 + val2 + val3) + " | " + "Sum 2: " + (val2 + val3 + val4) + " | " + output);
 		}
 		
 		scan.close();
